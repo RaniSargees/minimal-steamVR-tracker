@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tracker-rescue)(type Legacy)(uri ${KIPRJMOD}/tracker-rescue.lib)(options "")(descr ""))
+  (lib (name tracker)(type Legacy)(uri ${KIPRJMOD}/tracker.lib)(options "")(descr ""))
+)
